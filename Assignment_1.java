@@ -1,3 +1,7 @@
+// Takes given array and reverses it
+// Prompts new data entry
+// Prompts existing data deletion
+
 import java.util.Arrays;
 import java.util.Scanner;
 
