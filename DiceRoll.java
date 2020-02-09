@@ -1,9 +1,10 @@
-//
+// Rolls a virtual pair of dice
+// Records frequency & percentage of all possible sums
 
 public class DiceRoll {
     public static void main(String[] args) {
         int roll;
-
+// 2D array to hold dice rolls
         double[][] list = new double[11][3];
         list[0][0] = 2;
         list[1][0] = 3;
