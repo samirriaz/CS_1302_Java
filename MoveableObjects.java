@@ -1,3 +1,6 @@
+// Utilizes JavaFX to create a small application
+// Two moveable points created with a line connecting them
+
 import javafx.application.Application;
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.SimpleDoubleProperty;
